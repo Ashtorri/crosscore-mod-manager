@@ -1,0 +1,35 @@
+{
+    "gameName": "碧蓝航线",  
+    "serviceName": "日服",  
+    "packageName": "com.YoStarJP.AzurLane",  
+    "version": "1.0.0",  
+    "gamePath": "Android/data/com.YoStarJP.AzurLane/",  
+    "antiHarmonyFile": "Android/data/com.YoStarJP.AzurLane/files/localization.txt",  
+    "antiHarmonyContent": "Localization = true\nLocalization_skin = true",  
+    "gameFilePath": [
+        "Android/data/com.YoStarJP.AzurLane/files/AssetBundles/shipyardicon/",
+        "Android/data/com.YoStarJP.AzurLane/files/AssetBundles/paintingface/",
+        "Android/data/com.YoStarJP.AzurLane/files/AssetBundles/painting/",
+        "Android/data/com.YoStarJP.AzurLane/files/AssetBundles/strategyicon/",
+        "Android/data/com.YoStarJP.AzurLane/files/AssetBundles/squareicon/",
+        "Android/data/com.YoStarJP.AzurLane/files/AssetBundles/herohrzicon/",
+        "Android/data/com.YoStarJP.AzurLane/files/AssetBundles/live2d/",
+        "Android/data/com.YoStarJP.AzurLane/files/AssetBundles/loadingbg/",
+        "Android/data/com.YoStarJP.AzurLane/files/AssetBundles/spinepainting/"
+    ], 
+    "modType": [
+        "shipyardicon",
+        "paintingface",
+        "painting",
+        "strategyicon",
+        "squareicon",
+        "herohrzicon",
+        "live2d",
+        "loadingbg",
+        "spinepainting"
+    ],
+    "modSavePath": "",
+    "isGameFileRepeat": true,
+    "enableBackup": true,
+    "tips": ""
+}
